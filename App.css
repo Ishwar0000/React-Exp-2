@@ -1,0 +1,33 @@
+.container {
+  max-width: 600px;
+  margin: 30px auto;
+  border: 1px solid #f3f3f3;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin: 10px 5px 10px 0;
+  width: 200px;
+}
+
+button {
+  padding: 8px 10px;
+  margin-left: 5px;
+}
+
+.add-book {
+  margin-bottom: 20px;
+}
+
+.book-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #5b9abe;
+  padding: 10px;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
